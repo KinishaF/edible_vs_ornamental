@@ -26,21 +26,25 @@ By comparing edible and ornamental crop production with population data, poverty
 Which U.S. states grow the most edible and ornamental crops and how do these patterns relate to population size, income levels, and poverty rates?
 
 ## Sub-questions for Analysis
-1)	Trends Over Time:
-    -How have Edible Crops (acres harvested) and Ornamental Crop production (sales ($)) changed from 2012 to 
-     2022?
-2)	Crop Prioritization Over Time:
-    -How have Edible Crops changed between 2012 and 2022 by commodity (i.e. is the top crop for a state in 2012 
-     still the top crop in 2022)?
-3)	State-Level Agricultural Shifts:
-    -Which states increased or decreased their total acres harvested for edible crops between 2012 and 2022?
-4)	Edible and Ornamental Crop Focus:
-    -Which states produce the highest volume of Edible Crops per capita?
-    -What are the top Ornamental Crops in sales dollars ($)
-    -Which states generate the most revenue in Ornamental Crops?
-5)	Economic Correlations:
-    -Do states with higher poverty rates grow more food (or less)?
-    -Is there a correlation between Edible Crop production and median household income?
+1)	**Trends Over Time**
+- How have Edible Crops (acres harvested) and Ornamental Crop production (sales ($)) changed from 2012 to 
+  2022?
+
+2)	**Crop Prioritization Over Time**
+- How have Edible Crops changed between 2012 and 2022 by commodity (i.e. is the top crop for a state in 2012 
+  still the top crop in 2022)?
+
+3)	**State-Level Agricultural Shifts**
+- Which states increased or decreased their total acres harvested for edible crops between 2012 and 2022?
+
+4)	**Edible and Ornamental Crop Focus**
+- Which states produce the highest volume of Edible Crops per capita?
+- What are the top Ornamental Crops in sales dollars ($)
+- Which states generate the most revenue in Ornamental Crops?
+
+5)	**Economic Correlations**
+- Do states with higher poverty rates grow more food (or less)?
+- Is there a correlation between Edible Crop production and median household income?
 
 ## Known Issues and Challenges
 *	Data Cleaning:  USDA Census data includes placeholder values like “D” (withheld data), which required regex
