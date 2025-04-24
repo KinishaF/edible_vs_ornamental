@@ -48,9 +48,9 @@ Which U.S. states grow the most edible and ornamental crops and how do these pat
 
 *	Merging Datasets: Aligning USDA and U.S. Census Bureau data across three different years posed challenges 
     with consistent formatting and state name matching. 
-    
+
 *	Normalization: The value for Edible Crops is measured in acres harvested, whereas the value for Ornamental 
-    Crops is measured in sales dollars ($). Therefore, creating per capita metrics (i.e. acres harvested per 100,000 residents for Edible Crops and sales dollars ($) per 100,000 residents for Ornamental Crops) added depth to the analysis and helped surface regional disparities
+    Crops is measured in sales dollars. Therefore, creating per capita metrics (i.e. acres harvested per 100,000 residents for Edible Crops and sales dollars per 100,000 residents for Ornamental Crops) added depth to the analysis and helped surface regional disparities
 
 ## Tools & Technologies
 *	Python / Pandas – Data cleaning, merging, and exploratory data analysis
@@ -58,16 +58,19 @@ Which U.S. states grow the most edible and ornamental crops and how do these pat
 *	Canva – to create presentation introduction
 
 ## Data Sources
-1)	USDA NASS Quick Stats - https://quickstats.nass.usda.gov/  
-*	Agricultural Census data for vegetables and horticultural commodities (2012, 2017, 2022)
-2)	U.S. Census Bureau - https://www.census.gov/ 
-*	Population, poverty rates, income, and selected demographic data by state (2012, 2017, 2022)
+1)	USDA NASS Quick Stats - Agricultural Census data for vegetables and horticultural commodities for years
+    2012, 2017, 2022 - https://quickstats.nass.usda.gov/  
 
+2)	U.S. Census Bureau - Population, poverty rates, income, and selected demographic data by state for years 
+    2012, 2017, 2022 - https://www.census.gov/ 
+	
 ## Insights Gained
 *	States like California, Florida, and Washington lead in edible crop production overall, but when normalized 
     by population, smaller agricultural states sometimes outperform larger ones in per capita food output.
+
 *	Ornamental crop sales tended to be higher in states with higher median incomes, suggesting that aesthetic 
     gardening may be more prevalent in areas with higher income.
+
 *	There is often a disconnect between high food production states and areas experiences the most food 
     insecurity, raising questions about the logistics and equity of food distribution.
 
