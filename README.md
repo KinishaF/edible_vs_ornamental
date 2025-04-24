@@ -5,20 +5,20 @@
 
 ## Table of Contents
 * [Tableau Dashboard](#Tableau-dashboard)
-*	Motivation
-*	Data Question
-*	Sub-questions
-*	Known Issues and Challenges
-*	Tools & Technologies
-*	Data Sources
-*	Insights Gained
-*	Reflections
+*	[Motivation](#motivation)
+*	[Data Question](#data-question)
+*	[Sub-questions](#sub-questions-for-analysis)
+*	[Known Issues and Challenges](#known-issues-and-challenges)
+*	[Tools & Technologies](#tools--technologies)
+*	[Data Sources](#data-sources)
+*	[Insights Gained](#insights-gained)
+*	[Reflections](#reflections)
 
 ## Tableau Dashboard 
 Link: https://public.tableau.com/app/profile/kinisha.floyd/viz/PetalsorProduce-AnanalysisofEdibleandOrnamentalCropProduction/HowFoodProductionHasChanged 
 
 ## Motivation
-As someone transitioning into data analytics with a background in community programs and a passion for gardening , I chose this topic to explore how agricultural priorities reflect - and influence - economic and social landscapes across the U.S. Understanding where food is grown, especially in comparison to where it is need most, has real-world implications for addressing food insecurity, equitable resource distribution, and long-term sustainability
+As someone transitioning into data analytics with a background in community programs and a passion for gardening, I chose this topic to explore how agricultural priorities reflect - and influence - economic and social landscapes across the U.S. Understanding where food is grown, especially in comparison to where it is need most, has real-world implications for addressing food insecurity, equitable resource distribution, and long-term sustainability
 
 By comparing edible and ornamental crop production with population data, poverty rates, income levels, and regional characteristics, this project aims to uncover disparities and patterns that can inform more effective resource distribution, food policy, and sustainable solutions. My hope is that this work contributes to a better understanding of how data can be used to not only reveal gaps in the food system but also inspire innovative strategies to close them.  
 
@@ -26,21 +26,21 @@ By comparing edible and ornamental crop production with population data, poverty
 Which U.S. states grow the most edible and ornamental crops and how do these patterns relate to population size, income levels, and poverty rates?
 
 ## Sub-questions for Analysis
-1)	Trends Over Time
-*	How have Edible Crops (acres harvested) and Ornamental Crop production (sales ($)) changed from 2012 to 
-    2022?
-2)	Crop Prioritization Over Time
-*	How have Edible Crops changed between 2012 and 2022 by commodity (i.e. is the top crop for a state in 2012 
-    still the top crop in 2022)?
-3)	State-Level Agricultural Shifts
-*	Which states increased or decreased their total acres harvested for edible crops between 2012 and 2022?
-4)	Edible and Ornamental Crop Focus
-*	Which states produce the highest volume of Edible Crops per capita?
-*	What are the top Ornamental Crops in sales dollars ($)
-*	Which states generate the most revenue in Ornamental Crops?
-5)	Economic Correlations
-*	Do states with higher poverty rates grow more food (or less)?
-*	Is there a correlation between Edible Crop production and median household income?
+1)	Trends Over Time:
+    -How have Edible Crops (acres harvested) and Ornamental Crop production (sales ($)) changed from 2012 to 
+     2022?
+2)	Crop Prioritization Over Time:
+    -How have Edible Crops changed between 2012 and 2022 by commodity (i.e. is the top crop for a state in 2012 
+     still the top crop in 2022)?
+3)	State-Level Agricultural Shifts:
+    -Which states increased or decreased their total acres harvested for edible crops between 2012 and 2022?
+4)	Edible and Ornamental Crop Focus:
+    -Which states produce the highest volume of Edible Crops per capita?
+    -What are the top Ornamental Crops in sales dollars ($)
+    -Which states generate the most revenue in Ornamental Crops?
+5)	Economic Correlations:
+    -Do states with higher poverty rates grow more food (or less)?
+    -Is there a correlation between Edible Crop production and median household income?
 
 ## Known Issues and Challenges
 *	Data Cleaning:  USDA Census data includes placeholder values like “D” (withheld data), which required regex
